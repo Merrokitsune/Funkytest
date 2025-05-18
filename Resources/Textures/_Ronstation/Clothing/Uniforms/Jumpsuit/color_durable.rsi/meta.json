@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14. equipped-INNERCLOTHING edited by Dutch-VanDerLinde (github). Modified by Merrokitsune for Ronstation fork. trinkets-icon, trinkets-equipped-INNERCLOTHING, trinkets-equipped-INNERCLOTHING-monkey, trinkets-inhand-left, and trinkets-inhand-right made by Merrokitsune for Ronstation, using sprites from space-station-14 at commit https://github.com/Nairodian/space-station-14/commit/a7d3f06dab65dbe3dbde78be6171a1f60fb173e5, from edits by Nairodian (github) of secred_s taken from tgstation at pull request https://github.com/tgstation/tgstation/pull/2984.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-icon"
+    },
+    {
+      "name": "trinkets-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-icon"
+    },
+    {
+      "name": "armband-right-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-icon"
+    },
+    {
+      "name": "trim-1-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    }
+  ]
+}

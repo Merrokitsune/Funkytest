@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/993de554ecfc30cc45f8340819c5a60ef1eee7e1 and modified by Flareguy & P3MOIRA, with the lower half of the jumpskirt taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by Flareguy for SS14. monkey, trim, armband, lower, and extensive modifications to icon, prisoner-icon, and trinkets-icon made by Merrokitsune for Ronstation, using sprites taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, monkey originally made by brainfood1183 (github) for ss14, also modified by Merrokitsune for Ronstation.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-icon"
+    },
+    {
+      "name": "trinkets-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "trinkets-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "prisoner-icon"
+    },
+    {
+      "name": "prisoner-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "prisoner-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "prisoner-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "prisoner-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "armband-left-icon"
+    },
+    {
+      "name": "armband-left-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "armband-left-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "armband-left-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "armband-left-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-icon"
+    },
+    {
+      "name": "armband-right-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "armband-right-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-icon"
+    },
+    {
+      "name": "trim-1-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "trim-1-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "trim-under-1-icon"
+    },
+    {
+      "name": "trim-under-1-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "trim-under-1-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "trim-under-1-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "trim-under-1-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "lower-icon"
+    },
+    {
+      "name": "lower-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "lower-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "lower-equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "lower-equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    }
+  ]
+}
